@@ -1,3 +1,3 @@
 # Simple Movie React Website
--- Simple movie site
+-- Simple movie site with tailwind
 
