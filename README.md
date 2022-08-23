@@ -1,3 +1,3 @@
-# React Tutorials
-> Updated: November 11th 2019
+# Simple Movie React Website
+-- Simple movie site
 
